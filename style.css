@@ -1,0 +1,262 @@
+.home{
+  position: relative; 
+  top: 50%;
+  left:50% ;
+  color: grey;
+  padding: 50px;
+}
+.image1{
+    position: relative;
+    top:60%;
+    left: 60%;
+    width:500px;
+    height: 500px;
+    max-width: 100%;
+    
+}
+#elevate{
+  position: relative;
+  top: 30%;
+  left: 30%;
+}
+#detail{
+  padding: 50px;
+  font-weight: bold;
+font-size: xx-large;
+position: relative;
+top: 30%;
+left: 30%;
+}
+.button{
+  background-color: #110327e7;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 40px;
+  position: relative;
+  top: 30%;
+  left: 30%;
+}
+.youtube{
+  position: relative;
+  top: 30%;
+  left: 30%
+
+}
+.number{
+  gap: 20px;
+  display: flex;
+  position: relative;
+  top: 30%;
+  left: 30%
+
+}
+.font{
+  display: flex;
+  position: relative;
+  top: 30%;
+  left: 30%
+ 
+}
+
+#best{
+  position: relative;
+  top: 30%;
+  left: 30%
+ 
+}
+ 
+
+ 
+
+
+#new{
+color: red;
+font-size: smaller;
+}
+.font{
+  width: 2px;
+  height: 150px;
+  color: gray;
+  gap: 20px;
+  max-width: 100%;
+
+}
+#restyle{
+  position: relative;
+  top: 30%;
+  left: 30%
+ 
+
+}
+#give{
+  position: relative;
+  top: 30%;
+  left: 30%
+ 
+
+}
+.trendy{
+  gap: 80px;
+  display: flex;
+  padding: 50px;
+}
+.image3{
+  width: 350px;
+  height: 500px;
+  padding-left: 30px;
+  max-width: 100%;
+}
+.offer{
+  padding: 50px;
+  display: flex;
+  gap: 50px;
+}
+.image4{
+  width: 350px;
+  height: 500px;
+  max-width: 100%;
+
+}
+
+.image5{
+  display: flex;
+  gap: 30px;
+  position: relative;
+  top: 30%;
+  left: 30%
+ 
+}
+#reviews{
+  position: relative;
+  top: 30%;
+  left: 30%
+ 
+}
+.parker{
+  width: 20%;
+  height: 150px;max-width: 100%;
+}
+#testimonial{
+  position: relative;
+  top: 30%;
+  left: 30%
+ 
+
+}
+.customer{
+  padding: 15px;
+  position: relative;
+  top: 30%;
+  left: 30%
+
+}
+.quote{
+  display: flex;
+  position: relative;
+  top: 30%;
+  left: 30%;
+  gap: 30px;
+ 
+}
+#vase{
+  width: 350px;
+  max-width: 100%;
+}
+.container{
+  background-color: darkgrey whitesmoke;
+  border: solid peachpuff;
+  padding: 5px;
+  overflow: auto;
+  font-size: larger;
+}
+.saller{
+  gap: 30px;
+  display: flex;
+  position: relative;
+  top: 30%;
+  left: 30%;
+  padding: 50px;
+  
+ 
+}
+#flower{
+  width: 150px;
+  height: 250px;
+  max-width: 100%;
+  
+
+}
+
+#large{
+  width: 150px;
+  height: 350px;
+  max-width: 100%;
+ 
+}
+#v{
+  width: 150px;
+  height: 250px;
+  max-width: 100%;
+  
+
+}
+
+
+
+#new{
+  color: red;
+}
+#solid{
+  width: 150px;
+  height: 250px;
+  max-width: 100%;
+
+
+}
+#days{
+  width: 150px;
+  height: 250px;
+max-width: 100%;
+}
+#cards{
+  width: 150px;
+  height: 250px;
+  max-width: 100%;
+
+}
+#track{
+  width: 150px;
+  height: 250px;
+  max-width: 100%;
+
+
+}
+#we{
+  position: relative;
+  top: 30%;
+  left: 30%;
+  
+
+}
+#company{
+  padding: 30px;
+}
+.copy{
+  display: flex;
+  gap: 100px;
+  padding: 100px;
+}
+#dotted{
+  border: dotted gray;
+}
+.about{
+  gap:100%;
+  padding: 100%;
+}
